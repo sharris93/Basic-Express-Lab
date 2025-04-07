@@ -34,7 +34,7 @@ By the end of this exercise, you should be able to:
 3. **Run your server**
 
    ```
-   node server.js
+   nodemon
    ```
 
 4. **Test it out in your browser or with Postman!**
