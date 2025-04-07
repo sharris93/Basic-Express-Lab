@@ -15,6 +15,7 @@ By the end of this exercise, you should be able to:
 1. **Initialize your project**
 
    ```
+   touch server.js
    npm init -y
    npm i express
    ```
